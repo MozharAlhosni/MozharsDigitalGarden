@@ -6,7 +6,7 @@ Ambush From All Sides: Understanding Security Threats in Open-Source Software CI
 
 https://ieeexplore.ieee.org/document/10061526
 
-# Ration
+# Rating
 
 7/10
 
