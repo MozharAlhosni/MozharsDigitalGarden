@@ -1,0 +1,1 @@
+[retype](https://retype.com/) is an static website generator that builds a website based on simple Markdown text files.
