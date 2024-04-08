@@ -1,4 +1,0 @@
-- https://www.learnrazorpages.com/
-- https://github.com/tesar-tech/BlazorStatic
-- https://mudblazor.com/
-- https://github.com/ddjerqq/quickform

@@ -1,6 +1,0 @@
-- https://zer1t0.gitlab.io/posts/attacking_ad/
-- https://www.ired.team/
-- https://github.com/CravateRouge/bloodyAD
-- https://blog.certcube.com/ad-recon-for-beginners/
-- https://cybersecuritynews.com/active-directory-checklist/
-- https://blog.certcube.com/ad-recon-for-beginners/

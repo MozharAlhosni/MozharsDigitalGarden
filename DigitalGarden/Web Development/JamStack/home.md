@@ -1,2 +1,0 @@
-- https://jamstack.org/
-- https://docsify.js.org/#/?id=docsify
