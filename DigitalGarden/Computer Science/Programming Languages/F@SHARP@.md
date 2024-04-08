@@ -1,0 +1,3 @@
+- The [F#](https://fsharp.org/) programming language is a general-purpose, strongly typed, multi-paradigm programming language that encompasses functional, imperative, and object-oriented programming methods.
+- [Elmish](https://elmish.github.io/elmish/) implements core abstractions that can be used to build F# applications following the [“model view update”](https://guide.elm-lang.org/architecture/) style of architecture, as made famous by Elm.
+- The documentation of the [F#](https://fsharp.org/) programming language is at: https://fsharp.org/docs/

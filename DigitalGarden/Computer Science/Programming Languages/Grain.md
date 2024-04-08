@@ -1,0 +1,5 @@
+- The [Grain](https://grain-lang.org/) programming language is a new language that puts academic language features into work.
+- `Grain` is powered by [WebAssembly](https://webassembly.org/), compiling directly to WASM.
+- `Grain` does not allow runtime errors.
+- `Grain` has its root in functional programming, but it is flexible to accommodate different programming styles for various applications.
+- The documentations of the `Grain` programming language are at: https://grain-lang.org/docs/intro

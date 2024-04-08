@@ -1,0 +1,1 @@
+- [SwiftWasm](https://swiftwasm.org/) allows compiling [Swift](https://www.swift.org/) to `WASM`

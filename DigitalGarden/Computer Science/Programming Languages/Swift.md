@@ -1,0 +1,2 @@
+- The [Swift](https://www.swift.org/) programming language is a `general-purpose` programming language.
+- The documentation of `Swift` is at: https://www.swift.org/documentation/

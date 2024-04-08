@@ -1,0 +1,3 @@
+- The [D](https://dlang.org/index.html) programming language is a general-purpose programming language with `static typing`, `systems-level access`, and [C](https://en.wikipedia.org/wiki/C_(programming_language)-like syntax.
+- [Phobos](https://github.com/dlang/phobos) is the standard library of the `D` programming language.
+- The specification of the `D` programming language is at: https://dlang.org/spec/spec.html

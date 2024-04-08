@@ -1,0 +1,1 @@
+- The [Rust and WebAssmebly](https://rustwasm.github.io/docs/book/) book is for anyone interested in compiling Rust to WebAssembly.

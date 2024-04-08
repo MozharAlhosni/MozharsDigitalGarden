@@ -1,0 +1,2 @@
+- The [Reason](https://reasonml.github.io/) programming language allows writing simple, fast and quality type safe code while leveraging both the JavaScript and OCaml ecosystems.
+- The documentations of the `Reason` programming language are at: https://reasonml.github.io/docs/en/what-and-why

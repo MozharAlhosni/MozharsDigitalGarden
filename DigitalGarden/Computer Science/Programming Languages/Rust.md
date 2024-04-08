@@ -1,0 +1,2 @@
+- The [Rust](https://www.rust-lang.org/) programming language is a `general purpose` programming language that emphasizes `performance`, `type safety`, and `concurrency`.
+- The `Rust` standard library is at: https://doc.rust-lang.org/std/index.html

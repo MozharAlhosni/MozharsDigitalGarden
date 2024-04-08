@@ -1,0 +1,2 @@
+- The [Go](https://go.dev/) programming language is a `statically typed`, compiled high-level programming language designed at Google by Robert Griesemer, Rob Pike, and Ken Thompson.
+- The documentation of `Go` is at: https://go.dev/doc/

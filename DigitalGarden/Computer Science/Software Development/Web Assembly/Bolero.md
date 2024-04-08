@@ -1,0 +1,3 @@
+- [Bolero](https://fsbolero.io/docs/) is a set of free and open-source libraries and tools to write web applications in [**F#**](https://fsharp.org/).
+- `Bolero` is built on top of [Blazor](https://blazor.net/).
+- `Bolero` can be used to write fully dynamic client-side web applications from the comfort of a strongly-typed functional language.

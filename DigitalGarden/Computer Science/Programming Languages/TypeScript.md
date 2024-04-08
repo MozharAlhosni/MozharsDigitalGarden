@@ -1,0 +1,2 @@
+- The [TypeScript](https://www.typescriptlang.org/) programming language is `JavaScript` with syntax for `types`.
+- The documentation of the `TypeScript` programming language is at: https://www.typescriptlang.org/docs/
